@@ -1,6 +1,5 @@
 import { GOOGLE_EMAIL } from '$env/static/private'
 import { redirect } from '@sveltejs/kit'
-import transporter from '$lib/emailSetup.server.js'
 
 export const actions = {
 	default: async({request}) => {
@@ -21,21 +20,6 @@ export const actions = {
 			text: body,
 			html: html
 		}
-
-		const sendEmail = async (message) => {
-			await new Promise((resolve, reject) => {
-				transporter.sendMail(message, (err, info) => {
-					if (err) {
-						console.error(err)
-						reject(err)
-					} else {
-						resolve(info)
-					}
-				})
-			})
-		}
-
-		await sendEmail(message)
 
 		throw redirect(303, '/exito')
 	}
