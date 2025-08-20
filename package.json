@@ -1,0 +1,25 @@
+{
+	"name": "denta-vitalis",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/kit": "^1.20.4",
+		"svelte": "^4.0.5",
+		"svelte-carousel": "^1.0.25",
+		"vite": "^4.4.2"
+	},
+	"type": "module",
+	"dependencies": {
+		"@splinetool/runtime": "^0.9.512",
+		"mapbox-gl": "^2.15.0",
+		"nodemailer": "^6.9.5",
+		"svelte-inview": "^4.0.1",
+		"three": "^0.156.1"
+	}
+}
