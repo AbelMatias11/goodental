@@ -5,7 +5,7 @@
 		<source src="/gray.mp4" type="video/mp4">
 	</video>
 	<div class="flex">
-		<h1>Cuidamos tu sonrisa con la mejor tecnología</h1>
+		<h1>Cuidamos tu sonrisa con el abel</h1>
 		<p>
 			En <strong class="white">DENTA VITALIS</strong> te
 			brindamos la atención y el seguimiento que te mereces.
