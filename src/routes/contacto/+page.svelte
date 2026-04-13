@@ -83,8 +83,8 @@
 
 <svelte:head>
 	<title>Contáctanos - Denta Vitalis Consultorio Dental en Arequipa</title>
-	<meta name="description" content="Escríbenos a dentavitalisclinica@gmail.com o llámanos al (+51) 986 218 962. Estamos aquí para atender tus necesidades dentales. Atención de Lunes a Viernes de 9:30 a 20:00 y Sábados de 9:30 a 13:00">
-	<meta name="keywords" content="Contacto, Denta Vitalis, Dentistas en Cayma, Implantes dentales 3D, Arequipa, Consultorio dental, Estética dental, Enmanuel Pacheco Chirinos">
+	<meta name="description" content="Escríbenos a goodentalodontologia@gmail.com o llámanos al (+51) 961 262 613. Estamos aquí para atender tus necesidades dentales. Atención de Lunes a Viernes 9:00 - 18:00">
+	<meta name="keywords" content="Contacto, GOODENTAL, Dentistas en Cerro Colorado, Implantes dentales, Arequipa, Consultorio dental, Estética dental">
 </svelte:head>
 
 <svelte:window on:resize={resizeMap}></svelte:window>

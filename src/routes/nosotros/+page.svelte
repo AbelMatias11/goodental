@@ -1,12 +1,12 @@
 <script>
-    import nosotros from "$lib/images/sedes/doc_av_todos.webp";
+    import nosotros from "$lib/images/sedes/doctores.avif";
     import smile from "$lib/svg/smile.svg";
     import Tech from "./Tech.svelte";
     import Funciona from "./Funciona.svelte";
 </script>
 
 <svelte:head>
-	<title>Conoce a Denta Vitalis - Nuestra Historia y Equipo</title>
+	<title>Conoce a Goodental - Nuestra Historia y Equipo</title>
 	<meta name="description" content="Descubre quiénes somos y conoce al Dr. Enmanuel Pacheco Chirinos, experto en implantes dentales 3D. Odontología para todos en Arequipa.">
 </svelte:head>
 
@@ -22,7 +22,7 @@
 					para todos!
 				</h1>
 				<p>
-					Más de 9 años a tu lado. Contamos con un equipo altamente calificado
+					Contamos con un equipo altamente calificado
 					para asegurarnos de brindarte el mejor tratamiento.
 				</p>
 			</div>
@@ -76,11 +76,7 @@
 		<img src={smile} alt="Icono con sonrisa y estrellas" />
 		<h2>Conoce a nuestro <strong>equipo</strong></h2>
 		<div class="grinder a1080 p16">
-			<div id="first">Dra. Pilar Escobedo Zegarra</div>
-			<div id="second">Dr. Enmanuel Pacheco Chirinos</div>
-			<div id="third">Asis. Lorena Salazar Loaiza</div>
-			<div id="fifth">Dr. Sergio Cárdenas Zenteno</div>
-			<div id="sixth">Dra. Ana Belén Alva</div>
+
 		</div>
 	</section>
 </div>
@@ -88,54 +84,9 @@
 
 <style>
 
-	.grinder {
-		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: 300px 300px 300px 300px 300px;
-		gap: 32px;
-		margin: 96px auto;
-	}
+	
 
-	.grinder > * {
-		border-radius: 32px;
-		display: flex;
-		align-items: flex-end;
-		justify-content: flex-start;
-		padding: 16px;
-		font-size: 24px;
-		font-weight: bold;
-		color: white;
-		box-shadow: inset rgba(50, 50, 50, 0.25) 0px 0px 10px 5px;
-		--colorx: #001a19b3;
-		line-height: 28px;
-		transition: all 300ms ease;
-	}
-
-	.grinder > *:hover {
-		--colorx: #001211d3;
-		padding-bottom: 32px;
-	}
-
-	#first {
-		grid-row-start: 2;
-		grid-row-end: 3;
-		background-image: linear-gradient(0deg, var(--colorx) , transparent 75%), url(/src/lib/images/nosotros/doc_av_1.webp);
-	}
-	#second {
-		grid-row-start: 1;
-		grid-row-end: 1;
-		background-image: linear-gradient(0deg, var(--colorx) , transparent 75%), url(/src/lib/images/nosotros/doc_av_3.webp);
-	}
-	#third {
-		background-image: linear-gradient(0deg, var(--colorx) , transparent 75%), url(/src/lib/images/nosotros/doc_av_2.webp);
-	}
-	#fifth {
-		background-image: linear-gradient(0deg, var(--colorx) , transparent 75%), url(/src/lib/images/nosotros/doc_cayma_2.webp);
-	}
-	#sixth {
-		background-image: linear-gradient(0deg, var(--colorx) , transparent 75%), url(/src/lib/images/nosotros/doc_cayma_3.webp);
-	}
-
+	
 	.container {
 		display: flex;
 		flex-direction: column;
@@ -195,33 +146,8 @@
 		padding: 0 var(--margin);
 	}
 
-	#first, #third {
-		background-size: auto 110%;
-		background-position: 28% 14%;
-	}
-	#first:hover,
-	#third:hover { background-size: auto 125%; }
 
-
-	#second {
-		background-position: 25%;
-		background-size: auto 100%;
-	}
-	#second:hover { background-size: auto 110% }
-
-
-	#sixth {
-		background-size: auto 110%;
-		background-position: 5% 14%;
-	}
-	#sixth:hover { background-size: auto 125% }
-
-
-	#fifth {
-		background-position: 90%;
-		background-size: auto 100%;
-	}
-	#fifth:hover { background-size: auto 110% }
+	
 
 	@media (min-width: 768px) {
 
@@ -230,10 +156,6 @@
 			grid-template-rows: 330px 330px 300px;
 		}	
 
-		#second {
-			grid-row-start: 1;
-			grid-row-end: 3;
-		}
 
 		.gradient {
 			display: block;
@@ -286,15 +208,4 @@
 		}
 	}
 
-	@media (min-width: 480px) and (max-width: 767px) {
-		#first, #third, #second, #sixth, #fifth {
-			background-size: 100% auto;
-			background-position: 28% 14%;
-		}
-		#first:hover,
-		#second:hover,
-		#third:hover,
-		#fifth:hover,
-		#sixth:hover { background-size: 115% auto; }
-	}
 </style>

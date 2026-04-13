@@ -53,7 +53,7 @@
             .setPopup(
                 new mapboxgl.Popup({ offset: 25 }) // add popups
                 .setHTML(
-                    `<a href='https://goo.gl/maps/qC2jfY87K8N4ELgbA' target='_blank'>
+                    `<a href='https://www.google.com/maps/place/Av.+Brigadier+Mateo+Pumacahua+312,+Cerro+Colorado+04017/@-16.3791776,-71.5574096,19z/data=!3m1!4b1!4m6!3m5!1s0x91424a13c7debca1:0x17e7f73924fa76e1!8m2!3d-16.3791776!4d-71.5567659!16s%2Fg%2F11h_462nzh?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D' target='_blank'>
                         <h3>${feature.properties.title}</h3><p>${feature.properties.description}</p>
                      </a>
                     `
@@ -74,7 +74,7 @@
     <aside class="white">
         <div class="container">
             <h1>Estamos cerca de tí</h1>
-            <p>Visítanos en el Centro Médico Cayma o en Las Malvinas </p>
+            <p>Visítanos en Cerro Colorado </p>
             <img src={location} alt="Location icon">
         </div>
     </aside>

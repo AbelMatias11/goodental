@@ -43,7 +43,7 @@
 
 <article>
 	<h1>Dale un vistazo a nuestros <strong>consultorios</strong></h1>
-	<p>En <strong>DENTA VITALIS</strong> contamos con consultorios modernos equipados con la última tecnología</p>
+	<p>En <strong>GOODENTAL</strong> contamos con consultorios modernos equipados con la última tecnología</p>
 	<div class="container" on:scroll={(e) => setActive(e.target)}>
 		{#each images as image, index}
 			<img id="carousel-{index}" src={image} alt="Parte del carrusel">

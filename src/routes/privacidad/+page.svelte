@@ -41,7 +41,7 @@
 			</li>
 			<li>
 				<p><strong>Compañía</strong> (referida como "la Compañía", "Nosotros", "Nos" o "Nuestro" en este Acuerdo)
-					se refiere al Consultorio Denta Vitalis, Calle Tronchadero 203, Cayma, Arequipa, Perú.</p>
+					se refiere al Consultorio Goodental, Cerro Colorado, Arequipa, Perú.</p>
 			</li>
 			<li>
 				<p><strong>Las cookies</strong> son
@@ -82,9 +82,9 @@
 			</li>
 			<li>
 				<p><strong>El sitio web</strong> se
-					refiere a Denta Vitalis, accesible desde <a
-						href="https://www.privacypolicies.com/live/denta-vitalis-clinica.com"
-						rel="external nofollow noopener" target="_blank">denta-vitalis-clinica.com</a></p>
+					refiere a Goodental, accesible desde <a
+						href="https://www.privacypolicies.com/live/good-dental-clinica.com"
+						rel="external nofollow noopener" target="_blank">good-dental-clinica.com</a></p>
 			</li>
 			<li>
 				<p><strong>Usted</strong> se refiere
@@ -306,7 +306,7 @@
 		<p>Si tiene alguna pregunta sobre esta Política de privacidad,
 			puede contactarnos:</p>
 		<ul>
-			<li>Por correo electrónico: dentavitalisclinica@gmail.com
+			<li>Por correo electrónico: goodentalodontologia@gmail.com
 			</li>
 		</ul>
 	</section>

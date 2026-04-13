@@ -5,12 +5,12 @@
 		<source src="/gray.mp4" type="video/mp4">
 	</video>
 	<div class="flex">
-		<h1>Cuidamos tu sonrisa con el abel</h1>
+		<h1>Cuidamos tu sonrisa con el mejor servicio</h1>
 		<p>
-			En <strong class="white">DENTA VITALIS</strong> te
+			En <strong class="white">GOODENTAL</strong> te
 			brindamos la atención y el seguimiento que te mereces.
 		</p>
-		<a class="button" href="https://wa.me/+51986218962?text=Buenas,%20quisiera%20reservar%20una%20cita%20para%20el%20..." target="_blank">
+		<a class="button" href="https://wa.me/+5491127784086?text=Buenas,%20quisiera%20reservar%20una%20cita%20para%20el%20..." target="_blank">
 			Contáctanos
 			<svg class="HoverArrow" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true">
 				<g fill-rule="evenodd">

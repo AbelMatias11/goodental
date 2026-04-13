@@ -172,7 +172,7 @@
     </section>
     <section>
         <h2>Información de Contacto</h2>
-        <p>Las preguntas sobre los Términos del servicio se deben enviar a dentavitalisclinica@gmail.com</p>
+        <p>Las preguntas sobre los Términos del servicio se deben enviar a goodentalodontologia@gmail.com</p>
     </section>
 </article>
 

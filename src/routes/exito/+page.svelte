@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Gracias por comunicarte con nosotros</title>
-	<meta name="description" content="Escríbenos a dentavitalisclinica@gmail.com o llámanos al (+51) 986 218 962. Estamos aquí para atender tus necesidades dentales. Atención de Lunes a Viernes de 9:30 a 20:00 y Sábados de 9:30 a 13:00">
+	<meta name="description" content="Escríbenos a goodentalodontologia@gmail.com o llámanos al (+51) 986 218 962. Estamos aquí para atender tus necesidades dentales. Atención de Lunes a Viernes de 9:30 a 20:00 y Sábados de 9:30 a 13:00">
 </svelte:head>
 
 <article>

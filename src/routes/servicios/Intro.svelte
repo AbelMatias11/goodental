@@ -1,5 +1,5 @@
 <script>
-	import src from '$lib/images/servicios/notas.avif'
+	import src from '$lib/images/servicios/documentogd.avif'
 	import Button from '$lib/Button.svelte'
 </script>
 
@@ -15,7 +15,7 @@
 		<p>
 			Desde el bienestar de la odontología general, hasta la corrección de
 			imperfecciones cosméticas, restauración de implantes y hasta esas dolorosas
-			emergencias orales, DENTA VITALIS lo tiene cubierto.
+			emergencias orales, GOODENTAL lo tiene cubierto.
 		</p>
 		<Button
 			href="https://wa.me/+51986218962?text=Buenas,%20quisiera%20reservar%20una%20cita%20para%20el%20..."

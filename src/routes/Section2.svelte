@@ -1,6 +1,6 @@
 <script>
 	import tools from '$lib/svg/tools.svg'
-	import dentist from "$lib/images/sedes/gato.avif";
+	import dentist from "$lib/images/sedes/lugar.avif";
     import Button from '$lib/Button.svelte';
     import Pbox from './Pbox.svelte';
 </script>
@@ -10,8 +10,8 @@
         <img src={tools} alt="Icono con herramientas de dentista" />
 		<h1>Odontología para todos!</h1>
 		<p>
-			Más de 9 años a tu lado. El abel es el abelos. Contamos con un equipo altamente
-            calificado para asegurarnos de brindarte el mejor tratamiento.
+			Tu salud dental en manos de un equipo calificado que garantiza confianza 
+			y calidad en cada tratamiento.
 		</p>
 		<Button href="/nosotros" --bkg="var(--teal)" --color="white" --h_bkg="#d5f0f3" --h_color="var(--teal)">
 			Más sobre nosotros
